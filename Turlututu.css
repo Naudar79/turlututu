@@ -45,7 +45,7 @@ header {
     display: block;
     float: left;
     width: 100px;
-    line-height: 44px;
+    line-height: 50px;
     /*hauteur de l'image de fond*/
     background: #333333;
     color: #DCDCDC;
@@ -61,9 +61,6 @@ header {
 #banner {
     background-color: #1e93cc;
     width: 100%;
-    padding-top: 0px;
-    padding-left: 0px;
-    margin-left: 0px;
     display: inline-flex;
 }
 
