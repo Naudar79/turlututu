@@ -1,0 +1,181 @@
+body {
+    margin: 0;
+    background-color: white;
+    font-family: 'Arial', 'sans-serif';
+    font-weight: lighter;
+    line-height: 150%;
+    max-width: 1500px;
+    min-width: 1500px;
+    width: 100%;
+}
+
+header {
+    background-color: #333333;
+    display: inline-flex;
+}
+
+#log {
+    margin-left: 529px;
+    padding-top: 10px;
+    width: 17px;
+    height: 23px;
+    background-color: #333333;
+}
+
+#menu {
+    background-color: #333333;
+}
+
+#menu a {
+    color: white;
+    text-decoration: none;
+}
+
+#menu ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+#menu li {
+    float: left;
+}
+
+#menu ul li a {
+    display: block;
+    float: left;
+    width: 100px;
+    line-height: 44px;
+    /*hauteur de l'image de fond*/
+    background: #333333;
+    color: #DCDCDC;
+    text-decoration: none;
+    text-align: center;
+}
+
+#menu ul li a:hover {
+    background: #333333;
+    color: white;
+}
+
+#banner {
+    background-color: #1e93cc;
+    width: 100%;
+    padding-top: 0px;
+    padding-left: 0px;
+    margin-left: 0px;
+}
+
+#man {
+    margin-top: 0px;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+#logo {
+    margin-left: 265px;
+}
+
+#titreBanner {
+    color: white;
+    margin-left: 500px;
+}
+
+#start {
+    margin-left: 600px;
+    margin-bottom: 50px;
+    border-radius: 10px 10px 10px 10px;
+    width: 250px;
+    line-height: 60px;
+    text-align: center;
+    background-color: orange;
+    border-color: white;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#phHaut {
+    text-align: center;
+}
+
+#phBas {
+    text-align: center;
+}
+
+#part {
+    background-color: lightgrey;
+}
+
+#boutons {
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+#rest {
+    margin-left: 20%;
+    border-radius: 10px 10px 10px 10px;
+    width: 200px;
+    line-height: 60px;
+    text-align: center;
+    background-color: midnightblue;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#docs {
+    border-radius: 10px 10px 10px 10px;
+    width: 200px;
+    line-height: 60px;
+    text-align: center;
+    background-color: midnightblue;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#st {
+    border-radius: 10px 10px 10px 10px;
+    width: 200px;
+    line-height: 60px;
+    text-align: center;
+    background-color: orange;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#pieds {
+    background-color: #333333;
+}
+
+#pieds ul li {
+    display: inline-block;
+}
+
+#pieds a {
+    color: white;
+    text-decoration: none;
+}
+
+#pieds p {
+    color: white;
+    text-decoration: none;
+}
+
+#pieds ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+#blocTxt {
+    background-color: #1e93cc;
+    color: white;
+    width: 100%;
+}
+
+#copyright {
+    margin-left: 940px;
+}
