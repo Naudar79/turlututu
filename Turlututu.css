@@ -4,8 +4,8 @@ body {
     font-family: 'Arial', 'sans-serif';
     font-weight: lighter;
     line-height: 150%;
-    max-width: 1500px;
-    min-width: 1500px;
+    max-width: 1425px;
+    min-width: 1425px;
     width: 100%;
 }
 
@@ -15,7 +15,7 @@ header {
 }
 
 #log {
-    margin-left: 529px;
+    margin-left: 457px;
     padding-top: 10px;
     width: 17px;
     height: 23px;
@@ -64,6 +64,11 @@ header {
     padding-top: 0px;
     padding-left: 0px;
     margin-left: 0px;
+    display: inline-flex;
+}
+
+#ben {
+    margin-left: 300px;
 }
 
 #man {
@@ -73,16 +78,16 @@ header {
 }
 
 #logo {
-    margin-left: 265px;
+    margin-left: 31px;
 }
 
 #titreBanner {
     color: white;
-    margin-left: 500px;
+    margin-left: 0px;
 }
 
 #start {
-    margin-left: 600px;
+    margin-left: 72px;
     margin-bottom: 50px;
     border-radius: 10px 10px 10px 10px;
     width: 250px;
@@ -103,17 +108,13 @@ header {
     text-align: center;
 }
 
-#part {
-    background-color: lightgrey;
-}
-
 #boutons {
     margin-top: 30px;
     margin-bottom: 100px;
 }
 
 #rest {
-    margin-left: 20%;
+    margin-left: 415px;
     border-radius: 10px 10px 10px 10px;
     width: 200px;
     line-height: 60px;
@@ -177,5 +178,5 @@ header {
 }
 
 #copyright {
-    margin-left: 940px;
+    margin-left: 868px;
 }
